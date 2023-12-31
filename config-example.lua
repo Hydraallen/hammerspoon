@@ -1,9 +1,9 @@
 -- Specify Spoons which will be loaded
 hspoon_list = {
     "AClock",
-    "BingDaily",
-    -- "Calendar",
-    "CircleClock",
+    --"BingDaily",
+    --"Calendar",
+    --"CircleClock",
     "ClipShow",
     "CountDown",
     "FnMate",
